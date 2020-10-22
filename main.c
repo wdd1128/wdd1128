@@ -2,8 +2,8 @@
 
 int main(){
 
-  printf("Life is egg\n");
-  
+  printf("Life is cat\n");
+
   //system("pause");
   return 0;
 }
