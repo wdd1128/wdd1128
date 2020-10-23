@@ -2,8 +2,8 @@
 
 int main(){
 
-  printf("revert\n");
-
+  printf("왜 안돼?\n");
+  
   //system("pause");
   return 0;
 }
