@@ -2,7 +2,7 @@
 
 int main(){
 
-  printf("Life is cat\n");
+  printf("수정 테스트\n");
 
   //system("pause");
   return 0;
