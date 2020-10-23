@@ -2,7 +2,7 @@
 
 int main(){
 
-  printf("수정\n");
+  printf("revert\n");
 
   //system("pause");
   return 0;
