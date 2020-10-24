@@ -2,8 +2,9 @@
 
 int main(){
 
-  printf("왜 안돼?\n");
 
+  printf("git hub\n");
+  
   //system("pause");
   return 0;
 }
